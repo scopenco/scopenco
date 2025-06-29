@@ -16,7 +16,7 @@
   1. Build/revise engineering team to have high efficient and effective functions teams, hire talents and develop competences for engineering staff on all levels (build a competence model, hiring, manage team growth, build/adjust systems for performance review and team motivation).
   1. Arrange collaboration with outsourcing companies, work on legal aspects, implement a certification program for software developed by third parties.
 
-- 👯 I’m looking to collaborate on:
+- 👯 Interested in collaboration on:
   - Product Development
   - FinTech
   - Cryptocurrency
