@@ -2,7 +2,7 @@
 
 - ⚡ Here is what you should know about me:
 
-  - From Moldova
+  - Originally from Moldova
   - Worked in IT since 2003 in various roles, started from System Administrator and during 20 years grown up to CTO managing 95 engineers (ex-Paxful)
   - Infrastructure Engineer by profession with experience in AWS, Kubernetes, GitLab, Helm, Terraform, Python and many others.
 
